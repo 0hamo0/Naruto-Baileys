@@ -1,9 +1,9 @@
 {
-  "name": "@song/baileys",
+  "name": "@naruto/baileys",
   "version": "1.4.5",
-  "description": "LOLI-BOT Baileys — Modified by SONG",
+  "description": "Baileys library — Modified and customized by naruto",
   "keywords": [
-    "song",
+    "naruto",
     "loli-bot",
     "baileys",
     "whatsapp"
@@ -13,7 +13,7 @@
     "url": "https://www.npmjs.com/package/angularsockets"
   },
   "license": "MIT",
-  "author": "SONG",
+  "author": "naruto",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
